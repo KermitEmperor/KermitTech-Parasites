@@ -1,0 +1,73 @@
+[
+  {
+    "mob": ["srparasites:buglin", "srparasites:rupter"],
+    "dimension": -6891,
+    "onjoin": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["matteroverdrive:ranged_rogue_android", "matteroverdrive:rogue_android"],
+    "dimension": -6891,
+    "groupcountmin": 30,
+    "groupcountmax": 60,
+    "weight": 20,
+    "mincount": 0,
+    "result": "allow"
+  },
+  {
+    "dimension": -6891,
+    "mob": "minecraft:sheep",
+    "block": "minecraft:grass",
+    "mincount": 0,
+    "maxcount": 8,
+    "result": "allow"
+  },
+  {
+    "dimension": -6891,
+    "mob": "minecraft:sheep",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": -6891,
+    "mob": "minecraft:pig",
+    "block": "minecraft:grass",
+    "mincount": 0,
+    "maxcount": 8,
+    "result": "allow"
+  },
+  {
+    "dimension": -6891,
+    "mob": "minecraft:pig",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": -6891,
+    "mob": "minecraft:chicken",
+    "block": "minecraft:grass",
+    "mincount": 0,
+    "maxcount": 8,
+    "result": "allow"
+  },
+  {
+    "dimension": -6891,
+    "mob": "minecraft:chicken",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": -6891,
+    "mob": "minecraft:cow",
+    "block": "minecraft:grass",
+    "mincount": 0,
+    "maxcount": 8,
+    "result": "allow"
+  },
+  {
+    "dimension": -6891,
+    "mob": "minecraft:cow",
+    "mincount": 8,
+    "result": "deny"
+  }
+]

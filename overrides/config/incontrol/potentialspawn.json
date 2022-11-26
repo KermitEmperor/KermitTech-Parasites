@@ -1,0 +1,46 @@
+[
+    {
+        "dimension": -6891,
+        "mobs": [
+          {
+            "mob": "minecraft:sheep",
+            "weight": 1,
+            "groupcountmin": 1,
+            "groupcountmax": 1
+          }
+        ]
+    },
+    {
+        "dimension": -6891,
+        "mobs": [
+          {
+            "mob": "minecraft:cow",
+            "weight": 1,
+            "groupcountmin": 1,
+            "groupcountmax": 1
+          }
+        ]
+    },
+    {
+        "dimension": -6891,
+        "mobs": [
+          {
+            "mob": "minecraft:pig",
+            "weight": 1,
+            "groupcountmin": 1,
+            "groupcountmax": 1
+          }
+        ]
+    },
+    {
+        "dimension": -6891,
+        "mobs": [
+          {
+            "mob": "minecraft:chicken",
+            "weight": 1,
+            "groupcountmin": 1,
+            "groupcountmax": 1
+          }
+        ]
+    }
+]

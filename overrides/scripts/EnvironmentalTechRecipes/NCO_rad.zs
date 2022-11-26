@@ -1,0 +1,1 @@
+mods.nuclearcraft.Radiation.setRadiationLevel(<ore:blockLitherite>, 0.001);

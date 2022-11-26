@@ -1,0 +1,14 @@
+[
+    {
+        "mob": "minecraft:zombie",
+        "player": "true",
+        "random": 0.1,
+        "item": "minecraft:sapling"
+    },
+    {
+        "mob": "minecraft:zombie",
+        "player": "true",
+        "random": 0.1,
+        "item": "minecraft:dirt"
+    }
+]
