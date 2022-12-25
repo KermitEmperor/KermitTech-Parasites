@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<galaxy>
+    <star blackHole="false" name="Sol" numGasGiants="0" numPlanets="0" size="1.0" temp="100" x="0" y="0">
+        <planet DIMID="0" customIcon="earthlike" dimMapping="" name="Earth">
+            <isKnown>true</isKnown>
+            <hasRings>true</hasRings>
+            <ringColor>0.4,0.4,0.7</ringColor>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <orbitalDistance>100</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <avgTemperature>287</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <planet DIMID="3" name="Luna">
+                <isKnown>true</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>1.0,1.0,1.0</skyColor>
+                <gravitationalMultiplier>16</gravitationalMultiplier>
+                <orbitalDistance>150</orbitalDistance>
+                <orbitalTheta>0</orbitalTheta>
+                <orbitalPhi>0</orbitalPhi>
+                <retrograde>false</retrograde>
+                <avgTemperature>208</avgTemperature>
+                <rotationalPeriod>128000</rotationalPeriod>
+                <atmosphereDensity>0</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateCaves>false</generateCaves>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <biomeIds>advancedrocketry:moon;30,advancedrocketry:moondark;30</biomeIds>
+            </planet>
+            <planet DIMID="4" name="Haonides">
+                <isKnown>true</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>1.0,1.0,1.0</skyColor>
+                <gravitationalMultiplier>16</gravitationalMultiplier>
+                <orbitalDistance>70</orbitalDistance>
+                <orbitalTheta>41</orbitalTheta>
+                <orbitalPhi>-80</orbitalPhi>
+                <retrograde>false</retrograde>
+                <avgTemperature>208</avgTemperature>
+                <rotationalPeriod>128000</rotationalPeriod>
+                <atmosphereDensity>0</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateCaves>false</generateCaves>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <biomeIds>advancedrocketry:moon;30,advancedrocketry:moondark;30</biomeIds>
+            </planet>
+        </planet>
+    </star>
+    <star blackHole="true" name="NauviHouq LF" numGasGiants="0" numPlanets="0" size="2.0" temp="0" x="180" y="76">
+        <planet DIMID="10" customIcon="iceworld" name="Tetnisurza">
+            <isKnown>false</isKnown>
+            <fogColor>0.5,0.75,1.0</fogColor>
+            <skyColor>0.31972712,0.88080376,1.0</skyColor>
+            <gravitationalMultiplier>90</gravitationalMultiplier>
+            <orbitalDistance>200</orbitalDistance>
+            <orbitalTheta>41</orbitalTheta>
+            <orbitalPhi>-69</orbitalPhi>
+            <retrograde>false</retrograde>
+            <avgTemperature>0</avgTemperature>
+            <rotationalPeriod>10923</rotationalPeriod>
+            <atmosphereDensity>74</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>true</generateGeodes>
+            <biomeIds>minecraft:ice_flats;30,minecraft:smaller_extreme_hills;30</biomeIds>
+            <planet DIMID="11" customIcon="marslike" name="Interitus">
+                <isKnown>true</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>1.0,1.0,1.0</skyColor>
+                <gravitationalMultiplier>100</gravitationalMultiplier>
+                <orbitalDistance>30</orbitalDistance>
+                <orbitalTheta>0</orbitalTheta>
+                <orbitalPhi>0</orbitalPhi>
+                <retrograde>false</retrograde>
+                <avgTemperature>0</avgTemperature>
+                <rotationalPeriod>128000</rotationalPeriod>
+                <atmosphereDensity>30</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateCaves>false</generateCaves>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <biomeIds>srparasites:biome_parasite;100</biomeIds>
+            </planet>
+        </planet>
+    </star>
+    <star blackHole="false" name="Vigotov" numGasGiants="0" numPlanets="0" size="1.0" temp="100" x="-100" y="89">
+        <star blackHole="false" separation="30.0" size="1.0" temp="200"/>
+        <planet DIMID="21" customIcon="carbonworld" name="Daliunope">
+            <isKnown>true</isKnown>
+            <hasRings>true</hasRings>
+            <ringColor>0.4,0.4,0.7</ringColor>
+            <fogColor>0.7,0.7,0.7</fogColor>
+            <skyColor>0.7,0.7,0.7</skyColor>
+            <gravitationalMultiplier>50</gravitationalMultiplier>
+            <orbitalDistance>100</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <avgTemperature>255</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>51</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <biomeIds>advancedrocketry:moondark;100</biomeIds>
+        </planet>
+    </star>
+</galaxy>

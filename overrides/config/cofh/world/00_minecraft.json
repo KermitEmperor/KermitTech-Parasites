@@ -227,6 +227,27 @@
 			}
 		},
 
+		"cobalt": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "tconstruct:ore",
+				"material": "minecraft:stone",
+				"cluster-size": 8
+			},
+			"cluster-count": 8,
+			"min-height": 0,
+			"max-height": 16,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					3
+				]
+			}
+		},
+
+
 		"lapis": {
 			"distribution": "gaussian",
 			"generator": {

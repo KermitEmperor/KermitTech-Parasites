@@ -56,7 +56,7 @@ val items = [
     <cyclicmagic:auto_packager>,
     <cyclicmagic:chest_sack>,
     <cyclicmagic:soulstone>,
-    <cyclicmagic:storage_bag>.withTag({})
+    <cyclicmagic:storage_bag>.withTag({}),
 ] as IItemStack[];
 
 for item in items {
